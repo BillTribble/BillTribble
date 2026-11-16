@@ -4,7 +4,7 @@ I'm a **designer and creative technologist** ([billtribble.com/design](https://b
 
 ## Creative technology projects
 
-- 🥁 **[Groove Explorer](https://billtribble.github.io/groove-explorer/)** — Discover global drum rhythms with grooves — 100+ rhythms with etymology, displayed on a world map and grouped by similarity. ([repo](https://github.com/BillTribble/groove-explorer))
+- 🥁 **[Groove Explorer](https://billtribble.github.io/groove-explorer/)** — Discover global drum rhythms with etymology, displayed on a world map and grouped by similarity. ([repo](https://github.com/BillTribble/groove-explorer))
 - 🎛️ **[Sangha-Looper](https://billtribble.github.io/Sangha-Looper/)** — A multiplayer looper for musicians. Built for live performance. ([repo](https://github.com/BillTribble/Sangha-Looper))
 - 💎 **[Crystal Transformer](https://billtribble.github.io/crystal-transformer/)** — Ray traced crystal experiment with procedural growth and generative ambient soundtrack. ([repo](https://github.com/BillTribble/crystal-transformer))
 - 🌿 **[LifeSim](https://billtribble.github.io/LifeSim/)** — An interactive 3D ecosystem. ([repo](https://github.com/BillTribble/LifeSim))
